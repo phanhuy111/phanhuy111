@@ -5,7 +5,7 @@
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
 - 🔭 I’m currently working on React Native and ReactJS in HCM city, Viet Nam
-- 🌱 I’m currently learning React Native, Typescript and Java Spring Boot Framework
+- 🌱 I’m currently learning Typescript and Java Spring Boot Framework
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with React Native Animation and so on
 - 💬 Ask me about React, React Native, Javascript
