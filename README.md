@@ -5,9 +5,8 @@
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
 - 🔭 I’m currently working on React Native and ReactJS in HCM city, Viet Nam
-- 🌱 I’m currently learning Typescript and Java Spring Boot Framework
-- 👯 I’m looking to collaborate on Javascript
+- 👯 I’m looking to collaborate on Typescript
 - 🤔 I’m looking for help with React Native Animation and so on
-- 💬 Ask me about React, React Native, Javascript
+- 💬 Ask me about React, React Native, Javascript, Typescript
 - 📫 How to reach me: [**Instagram**](https://www.instagram.com/phanjr.99/)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
